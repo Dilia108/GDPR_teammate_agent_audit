@@ -6,7 +6,7 @@ This repository contains a GDPR-focused audit of the **PMM Market Intelligence A
 
 - [`PMM_agent_brief.md`](./PMM_agent_brief.md) - Teammate data processing brief describing the system, data flows, and GDPR context.
 - [`Audit_worksheet_PMM_agent.md`](./Audit_worksheet_PMM_agent.md) - working notes and structured review used during the audit.
-- [`Audit_report_PMM_agent.md`](./Audit_report_PMM_agent.md) - final peer audit report with findings and recommendations.
+- [`Audit_report_PMM_agent.md`](./Audit_report_PMM_agent.md) - final teammate audit report with findings and recommendations.
 - [`Debrief_conversation.md`](./Debrief_conversation.md) - post-audit discussion between reviewer and teammate (builder).
 
 ## Summary
